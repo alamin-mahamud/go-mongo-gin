@@ -13,7 +13,7 @@
   		1.go run server.go
 
 
-  ## Routs
+  ## Routes
 
   		1.curl -v -H "Accept: application/json" -H "Content-type: application/json" -X GET http://localhost:8000/users 
 
